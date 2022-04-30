@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 - 🔭 I’m currently working at TeamDMX
 - 🌱 I’m currently an undergraduate at University of Sri Jayewardenepura
 - 👯 I’m obsessed with teaching
