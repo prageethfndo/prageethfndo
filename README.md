@@ -6,12 +6,13 @@
 - 💬 Ask me about movies
 - 📫 How to reach me: prageeth@mail.com
 
-<!--
-**prageethfndo/prageethfndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html>
+  <body>
+    <img align=”left” src=”linkedin.png" width=”21px”/>
+  </body>
+</html>
+  
 
-Here are some ideas to get you started:
 
 
 
-
--->
