@@ -1,10 +1,10 @@
-# Hi there 👋 I'm Prageeth 👨‍💻
-- :wedding: Undergraduate at University of Sri Jayewardenepura
+# Hi there 👋 I'm Prageeth :computer:
+- :mortar_board: Undergraduate at University of Sri Jayewardenepura
 - :bank: Working at TeamDMX
 - :abcd: Obsessed with teaching and instructing
 - :raising_hand: Cisco and Microsoft certified
 - :movie_camera: Ask me about movies
-- :computer: How to reach me: prageeth@mail.com
+- :email: How to reach me: prageeth@mail.com
 - :suspect: Dmithri
 
 <h2>Badges</h2>
