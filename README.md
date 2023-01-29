@@ -4,7 +4,7 @@
 - :abcd: Obsessed with teaching and instructing
 - :raising_hand: Cisco and Microsoft certified
 - :movie_camera: Ask me about movies
-- :email: How to reach me: prageeth@mail.com
+- :email: How to reach me: prageethfndo@gmail.com
 - :suspect: Dmithri
 
 <h2>Badges</h2>
